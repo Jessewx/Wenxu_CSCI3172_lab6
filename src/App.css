@@ -37,6 +37,11 @@
   font-style: italic;
 }
 
+.App-link3 {
+  color: #ffffff;
+  font-style: italic;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
