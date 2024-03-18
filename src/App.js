@@ -22,7 +22,7 @@ function App() {
         </a>
         <a
           className="App-link2"
-          href="https://git.cs.dal.ca/wenxu/csci3172/-/tree/main/labs/lab5?ref_type=heads"
+          href="https://git.cs.dal.ca/wenxu/csci3172/-/tree/main/labs/lab6?ref_type=heads"
           target="_blank"
           rel="noopener noreferrer"
         >
