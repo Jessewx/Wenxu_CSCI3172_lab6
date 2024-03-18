@@ -28,6 +28,14 @@ function App() {
         >
           Lab6 Gitlab repository
           </a>
+          <a
+          className="App-link3"
+          href="https://wenxu3172lab6.netlify.app/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Lab6 Webpage link
+          </a>
       </header>
 
       <main className='App-main'>
